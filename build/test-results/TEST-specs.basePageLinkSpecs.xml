@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="specs.basePageLinkSpecs" tests="5" skipped="0" failures="0" errors="0" timestamp="2015-10-26T08:18:01" hostname="PRINHYLTPDL0782" time="104.133">
+  <properties/>
+  <testcase name="Login into My redbus Page" classname="specs.basePageLinkSpecs" time="33.369"/>
+  <testcase name="Enter your journey details" classname="specs.basePageLinkSpecs" time="37.377"/>
+  <testcase name="validate the buses information" classname="specs.basePageLinkSpecs" time="10.546"/>
+  <testcase name="select the bus and the seat" classname="specs.basePageLinkSpecs" time="18.401"/>
+  <testcase name="payment page validations" classname="specs.basePageLinkSpecs" time="4.438"/>
+  <system-out><![CDATA[Into home page!
+Into My Account home page
+Into Buses page
+Buses Page Verified
+Asc sort verified
+Desc sort verified
+Seats are available
+seats can be hidden
+seat is selected
+asked for return booking
+no return
+Into payment page
+travel locations is verified
+travel agent is verified
+boarding point is verified
+Seat number  is verified
+1950
+Fare  is verified
+Date is verified
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
